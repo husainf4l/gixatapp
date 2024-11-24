@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "177130790090",
+    "project_id": "gixatco",
+    "storage_bucket": "gixatco.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177130790090:android:570d83b04723d24e57e833",
+        "android_client_info": {
+          "package_name": "com.gixat.gixatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177130790090-4tb2gukvqt7ih5fgnntf2q541usdfnjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_V2jxlNUtttCys4OmS7wrtegBaMbXRDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177130790090-4tb2gukvqt7ih5fgnntf2q541usdfnjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
